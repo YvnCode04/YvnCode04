@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YvnCode04
 - 👀 I’m interested in iSO, apple eco système developement 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Swift & SwiftUI  
 - 💞️ I’m looking to collaborate on Open Source software 
 - 📫 How to reach me on github at YvnCode04, on linked in at Yvan Gauthier 
 - 😄 Pronouns: He 
