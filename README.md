@@ -12,9 +12,12 @@ anything that will allow me to create better and more complex applications.
 As I said in my interest I'm learning everything that will help me to
 build better app so Xcode, Git, Swift C++ Python...etc 
   
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking to collaborate on open source projects. As I started my jorney as a developer with GNU/Linux with
+is a open source platform, I still am a opensource enthosiate. I love to be able to work on a
+Open Source project with the communoty of Applle dev. 
   
-- 📫 How to reach me on X, on mastodon et on Github
+- 📫 How to reach me on X  where I'am the most active, on mastodon where I try to post as much as possible
+et on Github of course where I host all my repos. 
   
 - 😄 Pronouns: He
   
